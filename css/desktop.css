@@ -1,0 +1,29 @@
+@media (min-width: 768px) {
+	#container {
+		width: 67%;
+		max-width: 1440px;
+	}
+
+	section#caixa1 {
+		width: 33%;
+		border-radius: 7px 0px 0px 7px;
+		float: left;
+	}
+
+	button {
+		width: 70%;
+		margin-top: 60px;
+		margin-bottom: 20px;
+	}
+
+	section#caixa2 {
+		width: 33%;
+		float: left;
+	}
+
+	section#caixa3 {
+		width: 33%;
+		border-radius: 0px 7px 7px 0px;
+		float: left;
+	}
+}

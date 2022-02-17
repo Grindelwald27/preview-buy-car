@@ -1,0 +1,9 @@
+@media (min-width: 375px) and (max-width: 767px) {
+	section#caixa1 {
+		border-radius: 7px 7px 0px 0px;
+	}
+
+	section#caixa3 {
+		border-radius: 0px 0px 7px 7px;
+	}
+}
